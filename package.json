@@ -2,6 +2,9 @@
   "name": "newsletter-signup",
   "version": "1.0.0",
   "description": "A newsletter sign-up form",
+  "engines": {
+    "node": "18.12.1"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
